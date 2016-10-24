@@ -29,6 +29,7 @@ Step 2. Add the dependency
 ```groovy
 dependencies {
     compile 'com.github.chenglei1986:DatePicker:-SNAPSHOT'
+    compile 'com.github.luhaoaimama1:DatePicker:1.0'//我的
 }
 ```
 
